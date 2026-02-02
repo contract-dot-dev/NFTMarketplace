@@ -7,4 +7,4 @@ Connect it to a Stagenet to automatically import the contract and generate a ded
 
 ## Get Started
 
-Follow this [quickstart](https://docs.contract.dev/get-started/foundry) to import this repo’s ERC20 contract onto a Stagenet.
+Follow this [quickstart](https://docs.contract.dev/get-started/foundry) to import this repo’s `NFTMarketplace` contract onto a Stagenet.
