@@ -1,4 +1,4 @@
-# MintableERC20
+# NFTMarketplace
 
 This repo contains a Foundry project with a `NFTMarketplace` token contract.
 It’s designed as a demo repo for use with [contract.dev](https://contract.dev).
