@@ -1,4 +1,4 @@
-# NFTMarketplace
+# contract.dev example: NFTMarketplace
 
 This repo contains a Foundry project with a `NFTMarketplace` contract.
 It’s designed as an example repo for use with [contract.dev](https://contract.dev).
@@ -9,7 +9,7 @@ Each project includes a [Stagenet](https://docs.contract.dev/stagenets) — a pr
 
 ## Get Started
 
-Follow our [Quickstart](https://docs.contract.dev/quickstart) to import this repo’s contracts onto a Stagenet and set up analytics [Workspaces](https://docs.contract.dev/analytics/workspaces) for them.
+Follow our [Quickstart](https://docs.contract.dev/quickstart) to import this repo’s contract onto a Stagenet and set up analytics [Workspaces](https://docs.contract.dev/analytics/workspaces) for them.
 
 The steps are straightforward. All you need to do is:
 
